@@ -2,6 +2,6 @@
 
 ## Fase 1
 
-- Tareas en equipo
+- Tareas individuales
 
-[Mapa mental 1](https://github.com/CereceroAngela/Mineria_De_Datos/blob/main/MapaMental_1_1851124.pdf)
+[MapaMental_1_1851124](https://github.com/CereceroAngela/Mineria_De_Datos/blob/main/MapaMental_1_1851124.pdf)
