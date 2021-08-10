@@ -1,3 +1,3 @@
 # Mineria_De_Datos
-## Mineria de Datos
+## Fase 1
 - Tareas en equipo
