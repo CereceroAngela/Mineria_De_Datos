@@ -14,3 +14,4 @@
 
 [Ejercicio base de datos_Equipo_1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Equipo_1-Ejercicio%20base%20de%20datos.pdf?fbclid=IwAR1wX97ZfRyaa9g0Z6jsV9ULQ-Wve1IRm02WaWHFCbMLy_B2cDGqx7V5UsQ)
 
+[Práctica 1 Equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Ej_Limpieza_Equipo1.ipynb)
