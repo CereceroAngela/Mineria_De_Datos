@@ -20,9 +20,6 @@
 
 ## Fase 2
 
-- Tareas individuales
-
-
 -Tareas en equipo
 
 [Presentación regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Presentaci%C3%B3n_Regresion-Lineal_Equipo1.pdf)
