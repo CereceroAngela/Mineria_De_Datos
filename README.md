@@ -18,6 +18,13 @@
 
 [Avance 1 PIA EQUIPO 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance1_PIA_Equipo1.ipynb?fbclid=IwAR34fLjG1tzYj5PZFoyPXM5yJ4vMGGsdbHIIee8qedGLdYxuAU3gD0IV9Ig)
 
+## Fase 2
+
+- Tareas individuales
+
+
+-Tareas en equipo
+
 [Presentación regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Presentaci%C3%B3n_Regresion-Lineal_Equipo1.pdf)
 
 [Preguntas regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf)
