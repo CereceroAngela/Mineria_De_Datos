@@ -27,3 +27,5 @@
 [Preguntas regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Preguntas_Regresi%C3%B3n-Lineal_Equipo1.pdf)
 
 [Código regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Programa_Regresi%C3%B3n-Lineal_Equipo1.r)
+
+[Práctica visualización de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
