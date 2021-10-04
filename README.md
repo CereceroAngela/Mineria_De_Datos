@@ -28,4 +28,6 @@
 
 [Código regresión lineal](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Programa_Regresi%C3%B3n-Lineal_Equipo1.r)
 
-[Práctica visualización de datos](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
+[Práctica 2 visualización de datos equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
+
+[Segundo avance PIA equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
