@@ -31,3 +31,5 @@
 [Práctica 2 visualización de datos equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Visualizacion_Equipo1.ipynb)
 
 [Segundo avance PIA equipo 1](https://github.com/Jose-Manuel-Romero-Banda/Mineria-de-Datos/blob/main/Avance2_PIA_Equipo1.ipynb)
+
+[Práctica técnicas equipo 1](https://github.com/IsabelRangel/Mineria_datos/blob/main/Pr%C3%A1ctica_T%C3%A9cnicas.ipynb)
