@@ -36,4 +36,6 @@
 
 ## Proyecto Integrador de Aprendizaje - Equipo 1
 
-[Contaminación por autos - Código](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
+[Contaminación por automóviles - Código](https://github.com/IsabelRangel/Mineria_datos/blob/main/PIA_Equipo1.ipynb)
+
+[Contaminación por automóviles - Póster](https://github.com/IsabelRangel/Mineria_datos/blob/main/Poster_Equipo1.pdf)
